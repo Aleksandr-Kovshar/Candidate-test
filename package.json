@@ -1,21 +1,21 @@
 {
-  "name": "testform",
+  "name": "teCandidate-teststform",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Aleksandr-Kovshar.github.io/testform",
+  "homepage": "https://Aleksandr-Kovshar.github.io/Candidate-test",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /testform/"
+    "build": "parcel build src/*.html --public-url /Candidate-test/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aleksandr-Kovshar/testform.git"
+    "url": "git+https://github.com/Aleksandr-Kovshar/Candidate-test.git"
   },
   "keywords": [],
   "author": "Oleksandr Kovshar <aleksandr.mpro@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Aleksandr-Kovshar/testform/issues"
+    "url": "https://github.com/Aleksandr-Kovshar/Candidate-test/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"

@@ -2,7 +2,7 @@
 // ВНИМАНИЕ! Это должен быть адрес ВАШЕГО РАЗВЕРНУТОГО ПРИЛОЖЕНИЯ
 // ТЕКУЩИЙ URL_APP приведён для примера
 const URL_APP =
-  "https://script.google.com/macros/s/AKfycby-Ae8neWIZ9CG2mmSA-LQnPOCtG8bHG2NPXrnG8V_a1VcDfkCIXO1QxmQnWjJR3MlA/exec";
+  "https://script.google.com/macros/s/AKfycbwKTzbn7zmpYWexeV1EXAX1CdNDYgaZMV5xob0fOu23mwk_NG0BTPKI8TwT05c_EzhI/exec";
 
 // находим форму в документе
 const form = document.querySelector("#form");
